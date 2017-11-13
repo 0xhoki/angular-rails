@@ -1,0 +1,14 @@
+{
+  "name": "ndesign",
+  "private": true,
+  "dependencies": {
+    "adler32": "^0.1.7",
+    "common": "^0.2.5",
+    "crc32": "^0.2.2",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "messages": "0.0.0",
+    "pdfkit": "^0.8.3",
+    "trees": "0.0.4"
+  }
+}

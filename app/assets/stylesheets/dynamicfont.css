@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'us101';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/custom/us101-webfont.ttf);
+}
+@font-face {
+  font-family: 'league_gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/custom/league_gothic-webfont.ttf);
+}
+h1 {
+	font-family: 'us101';
+}
